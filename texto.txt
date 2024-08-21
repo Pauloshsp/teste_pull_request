@@ -1,1 +1,3 @@
-Arquivo criado para testar funcionalidades de colaboração entre várias pessoas
+Arquivo criado para testar funcionalidades de colaboração entre várias pessoas.
+
+Esse arquivo também está sendo atualizado direto no github.
