@@ -1,1 +1,3 @@
 Esse arquivo foi criado e será atualizado em breve
+
+Criei essa nova linha para testar resolução de conflito com pull request

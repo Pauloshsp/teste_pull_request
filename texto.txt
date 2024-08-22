@@ -1,3 +1,5 @@
 Arquivo criado para testar funcionalidades de colaboração entre várias pessoas.
 
 Esse arquivo também está sendo atualizado direto no github.
+
+Essa linha também será ponto de conflito.
